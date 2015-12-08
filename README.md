@@ -1,2 +1,2 @@
 # tumblr-themes
-Fancy Pancy Tumblr Themes
+Testing Tumblr Themes
